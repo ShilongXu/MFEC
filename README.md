@@ -31,3 +31,5 @@ pip install opencv-python pandas scikit-learn seaborn albumentations==0.5.2 torc
 ## 数据集
 数据集涉及国土资源安全，未经过相关部门批准，暂时不提供。
 
+## 参数设置
+在文件defaults.py中已经有了基础配置，如果要根据自己的情况进行配置，请见文章：“Energy Cost Prediction Method for Wheeled Off-road Vehicles Based on Multi-modal Fusion”实验部分。
